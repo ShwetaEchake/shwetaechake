@@ -3,7 +3,7 @@
 - 😁 I’m interested in Programming(Web and Mobile apps) and REST APIs development.
 - 🔭 Currently Working Laravel and React js projects
 - 📫 How to reach me shwetaechake16@gmail.com
-<img align="right" src="https://komarev.com/ghpvc/?username=shadrackjm" alt="GitHub profile views counter">
+<img align="right" src="https://komarev.com/ghpvc/?username=shwetaechake" alt="GitHub profile views counter">
 
 ---
 
